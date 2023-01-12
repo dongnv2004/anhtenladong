@@ -1,1 +1,1 @@
-skip_render: README.md
+skip_render: dong.md
